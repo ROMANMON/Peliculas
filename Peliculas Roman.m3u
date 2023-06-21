@@ -1,3 +1,22 @@
 #EXTM3U
-#EXTINF:-1,Fast X 2023
+#EXTINF:-1 tvg-logo="https://www.fastxmovie.com/images/main/fastx_mobile_bg.jpg?id=1687370928", Fast X 2023
 https://player.odycdn.com/api/v4/streams/free/Fast-X/1dd1cd6c8541f91cbfcc7c1be23630bc6a9f9695/f9a567
+
+#EXTINF:-1,Mario Bros La película
+https://player.odycdn.com/api/v4/streams/free/The-SM(2023)-1080P-Amzn-Web-Dl-Latino/92051c6336ae621a8a672ac22f96da0cc9b3c2df/6826d1
+
+#EXTINF:-1,Jhon Wick 4
+https://player.odycdn.com/api/v4/streams/free/Jhon-wick-4/23e437ff79d90706cd131bd701e7836487c93fc9/dda301
+
+#EXTINF:-1,Los Croods 2
+https://player.odycdn.com/api/v4/streams/free/Los-Croods-2/2c91e330e8ecee2d5c00488bed789a4e251f2b1c/afa358
+
+#EXTINF:-1,La era del hielo 5
+https://player.odycdn.com/api/v4/streams/free/eradelhielo5/62555a7be92b873ffe4c11412645adfacbc6b0f3/968218
+
+#EXTINF:-1,La era del hielo 4
+https://player.odycdn.com/api/v4/streams/free/3R4-H13l0-4-1/a92450fae789be4b61d7d89e3be3dc856d1bd206/c016b3
+
+#EXTINF:-1 tvg-logo="http://images.universohq.com//2017/10/ThorRagnarokPoster2.jpg" group-title="Filmes Lançamentos", THOR: RAGNAROK
+http://s007.thevid.net/v/560668f3da48c75f780138e1cd350b50.mp4?e=1518918281&sa=u72RRmlrZd51Rs81tyEfQQ&st=SEOnyDpEKni2YMsCuN_YEg
+
